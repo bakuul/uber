@@ -1,0 +1,936 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 83%;
+    }
+    .header h2 {
+        font-size: 25px;
+    }
+    .uber {
+        font-size: 25px;
+    }
+
+    .header button {
+        font-size: 20px;
+    }
+    .start ion-icon {
+        font-size: 35px;
+    }
+    .hero input {
+        font-size: 18px;
+    }
+    .hero h2 {
+        font-size: 25px;
+    }
+    .menu img {
+        width: 380px;
+    }
+    .menu h4 {
+        font-size: 20px;
+    }
+    .menu p {
+        font-size: 18px;
+    }
+    .menu h6 {
+        font-size: 15px;
+    }
+    .footer h2 {
+        font-size: 35px;
+    }
+    .footer .uber {
+        font-size: 35px;
+    }
+    .info-1 select {
+        font-size: 20px;
+    }
+    .info-1 h5 {
+        font-size: 20px;
+    }
+    .icon {
+        font-size: 30px;
+    }
+    .info p {
+        font-size: 16px;
+    }
+    .apple {
+        width: 200px;
+        height: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 18px;
+    }
+    .apple ion-icon {
+        font-size: 40px;
+    }
+    #footer {
+        height: 700px;
+    }
+    .footer-end p {
+        font-size: 16px;
+    }
+    .footer-end button {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 80%;
+    }
+    .header h2 {
+        font-size: 20px;
+    }
+    .uber {
+        font-size: 20px;
+    }
+
+    .header button {
+        font-size: 15px;
+    }
+    .start ion-icon {
+        font-size: 29px;
+    }
+    .hero input {
+        font-size: 15px;
+    }
+    .hero h2 {
+        font-size: 18px;
+    }
+    .menu img {
+        width: 300px;
+    }
+    .menu h4 {
+        font-size: 16px;
+    }
+    .menu p {
+        font-size: 14px;
+    }
+    .menu h6 {
+        font-size: 12px;
+    }
+    .footer h2 {
+        font-size: 25px;
+    }
+    .footer .uber {
+        font-size: 25px;
+    }
+    .info-1 select {
+        font-size: 16px;
+    }
+    .info-1 h5 {
+        font-size: 16px;
+    }
+    .icon {
+        font-size: 25px;
+    }
+    .info p {
+        font-size: 13px;
+    }
+    .apple {
+        width: 160px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 14px;
+    }
+    .apple ion-icon {
+        font-size: 35px;
+    }
+    #footer {
+        height: 700px;
+    }
+    .footer-end p {
+        font-size: 13px;
+    }
+    .footer-end button {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+    .header h2 {
+        font-size: 20px;
+    }
+    .uber {
+        font-size: 20px;
+    }
+
+    .header button {
+        font-size: 15px;
+    }
+    .start ion-icon {
+        font-size: 29px;
+    }
+    .hero input {
+        font-size: 15px;
+    }
+    .hero h2 {
+        font-size: 18px;
+    }
+    .menu img {
+        width: 290px;
+    }
+    .menu h4 {
+        font-size: 16px;
+    }
+    .menu p {
+        font-size: 14px;
+    }
+    .menu h6 {
+        font-size: 12px;
+    }
+    .footer h2 {
+        font-size: 25px;
+    }
+    .footer .uber {
+        font-size: 25px;
+    }
+    .info-1 select {
+        font-size: 16px;
+    }
+    .info-1 h5 {
+        font-size: 16px;
+    }
+    .icon {
+        font-size: 25px;
+    }
+    .info p {
+        font-size: 13px;
+    }
+    .apple {
+        width: 160px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 14px;
+    }
+    .apple ion-icon {
+        font-size: 35px;
+    }
+    #footer {
+        height: 700px;
+    }
+    .footer-end p {
+        font-size: 13px;
+    }
+    .footer-end button {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        width: 90%;
+    }
+    .header h2 {
+        font-size: 20px;
+    }
+    .uber {
+        font-size: 20px;
+    }
+
+    .header button {
+        font-size: 15px;
+    }
+    .start ion-icon {
+        font-size: 29px;
+    }
+    .hero input {
+        font-size: 15px;
+    }
+    .hero h2 {
+        font-size: 18px;
+    }
+    .menu img {
+        width: 280px;
+    }
+    .menu h4 {
+        font-size: 16px;
+    }
+    .menu p {
+        font-size: 14px;
+    }
+    .menu h6 {
+        font-size: 12px;
+    }
+    .footer h2 {
+        font-size: 25px;
+    }
+    .footer .uber {
+        font-size: 25px;
+    }
+    .info-1 select {
+        font-size: 16px;
+    }
+    .info-1 h5 {
+        font-size: 16px;
+    }
+    .icon {
+        font-size: 25px;
+    }
+    .info p {
+        font-size: 13px;
+    }
+    .apple {
+        width: 160px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 14px;
+    }
+    .apple ion-icon {
+        font-size: 35px;
+    }
+    #footer {
+        height: 700px;
+    }
+    .footer-end p {
+        font-size: 13px;
+    }
+    .footer-end button {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+    .header h2 {
+        font-size: 18px;
+    }
+    .uber {
+        font-size: 18px;
+    }
+
+    .header button {
+        font-size: 10px;
+    }
+    .start ion-icon {
+        font-size: 22px;
+    }
+    .hero input {
+        font-size: 12px;
+    }
+    .hero h2 {
+        font-size: 16px;
+    }
+    .menu img {
+        width: 220px;
+    }
+    .menu h4 {
+        font-size: 13px;
+    }
+    .menu p {
+        font-size: 10px;
+    }
+    .menu h6 {
+        font-size: 8px;
+    }
+    .footer h2 {
+        font-size: 18px;
+    }
+    .footer .uber {
+        font-size: 18px;
+    }
+    .info-1 select {
+        font-size: 12px;
+    }
+    .info-1 h5 {
+        font-size: 12px;
+    }
+    .icon {
+        font-size: 20px;
+    }
+    .info p {
+        font-size: 10px;
+        font-weight: 100;
+        margin-bottom: 10px;
+    }
+    .apple {
+        width: 120px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 8px;
+    }
+    .apple ion-icon {
+        font-size: 25px;
+    }
+    #footer {
+        height: 600px;
+    }
+    .footer-end p {
+        font-size: 10px;
+    }
+    .footer-end button {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+@media (max-width: 576px) {
+    .container {
+        width: 90%;
+    }
+    #header {
+        padding: 10px 0;
+    }
+    #hero {
+        padding-top: 40px;
+    }
+    .header h2 {
+        font-size: 15px;
+    }
+    .uber {
+        font-size: 15px;
+    }
+
+    .header button {
+        font-size: 9px;
+        padding: 4px 10px;
+    }
+    .start ion-icon {
+        font-size: 19px;
+    }
+    .hero input {
+        font-size: 10px;
+    }
+    .hero h2 {
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    .menu img {
+        width: 160px;
+    }
+    .menu h4 {
+        font-size: 11px;
+    }
+    .menu p {
+        font-size: 8px;
+    }
+    .menu h6 {
+        font-size: 6px;
+    }
+    .footer h2 {
+        font-size: 14px;
+    }
+    .footer .uber {
+        font-size: 14px;
+    }
+    .info {
+        display: flex;
+        gap: 40px;
+    }
+    .info-1 select {
+        font-size: 12px;
+    }
+    .info-1 h5 {
+        font-size: 12px;
+    }
+    .icon {
+        font-size: 20px;
+    }
+    .info p {
+        font-size: 10px;
+        font-weight: 100;
+        margin-bottom: 10px;
+    }
+    .apple {
+        width: 100px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 8px;
+    }
+    .apple h6 {
+        font-size: 12px;
+    }
+    .apple ion-icon {
+        font-size: 18px;
+    }
+    .footer {
+        padding-top:30px ;
+    }
+    hr {
+        height: 1px;
+        margin: 20px 0;
+    }
+    #footer {
+        height: 400px;
+    }
+    .footer-end p {
+        font-size: 8px;
+    }
+    .footer-end button {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+
+@media (max-width: 452px) {
+    .container {
+        width: 90%;
+    }
+    #header {
+        padding: 10px 0;
+    }
+    #hero {
+        padding-top: 40px;
+    }
+    .header h2 {
+        font-size: 12px;
+    }
+    .uber {
+        font-size: 12px;
+    }
+
+    .header button {
+        font-size: 7px;
+        padding: 2px 7px;
+    }
+    .start ion-icon {
+        font-size: 14px;
+    }
+    .hero input {
+        font-size: 10px;
+    }
+    .hero h2 {
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    .menu img {
+        width: 125px;
+    }
+    .menu h4 {
+        font-size: 11px;
+        margin-top: 7px;
+    }
+    .menu p {
+        font-size: 9px;
+        width: 90px;
+        margin: 4px 0;
+    }
+    .menu h6 {
+        font-size: 7px;
+        margin-bottom: 20px;
+    }
+    .footer h2 {
+        font-size: 12px;
+    }
+    .footer .uber {
+        font-size: 12px;
+    }
+    .info {
+        display: flex;
+        gap: 30px;
+    }
+    .info-1 select {
+        font-size: 10px;
+        padding:10px;
+        width: 150px;
+    }
+    .info-1 h5 {
+        font-size: 12px;
+        margin: 10px 0 10px 0;
+    }
+    .icon {
+        font-size: 14px;
+    }
+    .info p {
+        font-size: 7px;
+        font-weight: 100;
+        margin-bottom: 10px;
+    }
+    .apple {
+        width: 90px;
+        height: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 6px;
+    }
+    .apple h6 {
+        font-size: 10px;
+    }
+    .apple ion-icon {
+        font-size: 18px;
+    }
+    .footer {
+        padding-top:30px ;
+    }
+    hr {
+        height: 1px;
+        margin: 20px 0;
+    }
+    #footer {
+        height: 350px;
+    }
+    .footer-end p {
+        font-size: 7px;
+    }
+    .footer-end button {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media (max-width: 400px) {
+    .container {
+        width: 90%;
+    }
+    #header {
+        padding: 8px 0;
+    }
+    #hero {
+        padding-top: 30px;
+    }
+    .header h2 {
+        font-size: 12px;
+    }
+    .uber {
+        font-size: 12px;
+    }
+
+    .header button {
+        font-size: 7px;
+        padding: 1px 7px;
+    }
+    .start ion-icon {
+        font-size: 14px;
+    }
+    .hero input {
+        font-size: 10px;
+    }
+    .hero h2 {
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    .menu img {
+        width: 110px;
+    }
+    .menu h4 {
+        font-size: 9px;
+        margin-top: 7px;
+    }
+    .menu p {
+        font-size: 7px;
+        width: 90px;
+        margin: 4px 0;
+    }
+    .menu h6 {
+        font-size: 5px;
+        margin-bottom: 20px;
+    }
+    .footer h2 {
+        font-size: 12px;
+    }
+    .footer .uber {
+        font-size: 12px;
+    }
+    .info {
+        display: flex;
+        gap: 30px;
+    }
+    .info-1 select {
+        font-size: 10px;
+        padding:10px;
+        width: 150px;
+    }
+    .info-1 h5 {
+        font-size: 12px;
+        margin: 10px 0 10px 0;
+    }
+    .icon {
+        font-size: 14px;
+    }
+    .info p {
+        font-size: 7px;
+        font-weight: 100;
+        margin-bottom: 10px;
+    }
+    .apple {
+        width: 90px;
+        height: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 6px;
+    }
+    .apple h6 {
+        font-size: 10px;
+    }
+    .apple ion-icon {
+        font-size: 18px;
+    }
+    .footer {
+        padding-top:30px ;
+    }
+    hr {
+        height: 1px;
+        margin: 20px 0;
+    }
+    #footer {
+        height: 350px;
+    }
+    .footer-end p {
+        font-size: 6px;
+    }
+    .footer-end button {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+
+@media (max-width: 376px) {
+    .container {
+        width: 90%;
+    }
+    #header {
+        padding: 8px 0;
+    }
+    #hero {
+        padding-top: 30px;
+    }
+    .header h2 {
+        font-size: 12px;
+    }
+    .uber {
+        font-size: 12px;
+    }
+
+    .header button {
+        font-size: 7px;
+        padding: 1px 7px;
+    }
+    .start ion-icon {
+        font-size: 14px;
+    }
+    .hero input {
+        font-size: 10px;
+    }
+    .hero h2 {
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    .menu img {
+        width: 105px;
+    }
+    .menu h4 {
+        font-size: 9px;
+        margin-top: 7px;
+    }
+    .menu p {
+        font-size: 7px;
+        width: 90px;
+        margin: 4px 0;
+    }
+    .menu h6 {
+        font-size: 5px;
+        margin-bottom: 20px;
+    }
+    .footer h2 {
+        font-size: 12px;
+    }
+    .footer .uber {
+        font-size: 12px;
+    }
+    .info {
+        display: flex;
+        gap: 30px;
+    }
+    .info-1 select {
+        font-size: 10px;
+        padding:10px;
+        width: 150px;
+    }
+    .info-1 h5 {
+        font-size: 12px;
+        margin: 10px 0 10px 0;
+    }
+    .icon {
+        font-size: 14px;
+    }
+    .info p {
+        font-size: 7px;
+        font-weight: 100;
+        margin-bottom: 10px;
+    }
+    .apple {
+        width: 90px;
+        height: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 6px;
+    }
+    .apple h6 {
+        font-size: 10px;
+    }
+    .apple ion-icon {
+        font-size: 18px;
+    }
+    .footer {
+        padding-top:30px ;
+    }
+    hr {
+        height: 1px;
+        margin: 20px 0;
+    }
+    #footer {
+        height: 350px;
+    }
+    .footer-end p {
+        font-size: 6px;
+    }
+    .footer-end button {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .container {
+        width: 90%;
+    }
+    #header {
+        padding: 8px 0;
+    }
+    #hero {
+        padding-top: 20px;
+    }
+    .header h2 {
+        font-size: 10px;
+    }
+    .uber {
+        font-size: 10px;
+    }
+
+    .header button {
+        font-size: 6px;
+        padding: 0.3px 5px;
+    }
+    .start ion-icon {
+        font-size: 14px;
+    }
+    .hero input {
+        font-size: 8px;
+    }
+    .hero h2 {
+        font-size: 10px;
+        padding-top: 20px;
+    }
+    .menu img {
+        width: 90px;
+    }
+    .menu h4 {
+        font-size: 7px;
+        margin-top: 7px;
+    }
+    .menu p {
+        font-size: 5px;
+        width: 90px;
+        margin: 4px 0;
+    }
+    .menu h6 {
+        font-size: 3px;
+        margin-bottom: 20px;
+    }
+    .footer h2 {
+        font-size: 10px;
+    }
+    .footer .uber {
+        font-size: 10px;
+    }
+    .info {
+        display: flex;
+        gap: 30px;
+    }
+    .info-1 select {
+        font-size: 10px;
+        padding:10px;
+        width: 150px;
+    }
+    .info-1 h5 {
+        font-size: 12px;
+        margin: 10px 0 10px 0;
+    }
+    .icon {
+        font-size: 14px;
+    }
+    .info p {
+        font-size: 7px;
+        font-weight: 100;
+        margin-bottom: 10px;
+    }
+    .apple {
+        width: 90px;
+        height: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .apple p {
+        font-size: 5px;
+    }
+    .apple h6 {
+        font-size: 8px;
+    }
+    .apple ion-icon {
+        font-size: 15px;
+    }
+    .footer {
+        padding-top: 15px;
+    }
+    hr {
+        height: 1px;
+        margin:10px 0;
+    }
+    #footer {
+        height: 270px;
+    }
+    .footer-end p {
+        font-size: 4px;
+    }
+    .footer-end button {
+        width: 20px;
+        height: 20px;
+    }
+    .footer-end ion-icon {
+        font-size: 10px;
+    }
+}

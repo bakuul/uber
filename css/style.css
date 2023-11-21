@@ -1,0 +1,260 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#header {
+    padding: 20px 0;
+background: #fff;
+box-shadow: 0 0 15px gray
+}
+
+.header h2 {
+    color: #448a42;
+font-family: sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 100;
+line-height: 24px; /* 150% */
+letter-spacing: 4px;
+}
+
+.rest {
+    color: #626262;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
+
+
+.uber {
+    color: #1D1D1D;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    letter-spacing: 4px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header button {
+    color: #1D1D1D;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 24px; /* 150% */
+    padding: 8px 16px;
+    background: white;
+    border-color: #e0e0e0;
+    cursor: pointer;
+}
+
+
+#hero  {
+    padding-top: 70px;
+}
+
+.hero h2 {
+    color: #1D1D1D;
+font-size: 22px;
+font-weight: 400;
+line-height: 34px; /* 154.545% */
+padding-top: 60px;
+margin-bottom: 20px;
+}
+
+.start {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.start ion-icon {
+    font-size: 22px ;
+}
+
+.hero input {
+    width: 100%;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.492) ;
+    cursor: pointer;
+}
+
+.menu h4 {
+    color: #1D1D1D;
+font-size: 16px;
+font-weight: 400;
+margin-top: 18px;
+}
+
+.menu p {
+    color: #626262;
+font-size: 14px;
+font-weight: 400;
+margin-top: 9px;
+margin-bottom: 9px;
+}
+
+.menu h6 {
+    color: #1D1D1D;
+font-size: 13px;
+font-weight: 400;
+margin-bottom: 40px;
+}
+
+.delish {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#footer {
+height: 600px;
+background:  #262626;
+}
+
+.footer h2 {
+    color: #57AD56;
+    letter-spacing: 4px;
+    font-weight: 200;
+}
+
+.footer span {
+    color: white;
+    font-size: 24px;
+}
+
+.footer {
+    padding-top: 60px;
+}
+
+hr {
+    height: 2px;
+    background: rgba(128, 128, 128, 0.689);
+    width: 100%;
+    margin: 40px 0;
+    border: none;
+}
+
+.info-1 select {
+    width: 227px;
+height: 40px;
+flex-shrink: 0;
+background: #3B3B3B;
+border: none;
+color: #FFF;
+font-size: 13px;
+font-weight: 400;
+padding: 0 0 0 20px;
+}
+
+.info-1 h5 {
+    color: #FFF;
+font-size: 16px;
+font-weight: 400;
+margin: 35px 0 20px 0;
+}
+
+.info-1 span {
+    color: #49A144;
+font-size: 16px;
+font-weight: 400;
+}
+
+.info {
+    display: flex;
+    align-items: flex-start;
+    gap: 200px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.info p {
+    color: #FFF;
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.apple {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    background: black;
+    width: 115px;
+    padding: 5px 5px 5px 5px ;
+    border-radius: 8px;
+    border: #626262;
+}
+
+
+.apple p {
+    color: #FFF;
+    font-size: 8px;
+}
+.apple h6 {
+    color: #FFF;
+    font-size: 16px;
+}
+
+.apple ion-icon {
+    color: #FFF;
+    font-size: 25px;
+}
+
+.social {
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    gap: 30px;
+}
+
+.footer-end {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-end p {
+    color: #FFF;
+font-size: 11px;
+font-weight: 400;
+}
+
+.footer-end button {
+    width: 80px;
+    height: 80px;
+    background: #49A144;
+    border-radius: 2px;
+    color: white;
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+html,body {
+    scroll-behavior: smooth;
+}
